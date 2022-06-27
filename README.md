@@ -3,4 +3,4 @@ Bu repo Kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo.İçerisinde 
 
 ## Installation
 Öncelikle projeyi clonelayın.
-[](https://github.com/MuhammetOkkes/kodluyoruzilkrepo.git)
+https://github.com/MuhammetOkkes/kodluyoruzilkrepo.git
