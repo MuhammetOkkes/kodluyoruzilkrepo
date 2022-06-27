@@ -1,2 +1,3 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# KODLUYORUZ ILK REPO
+* madde1
+[google linki](https://google.com)
